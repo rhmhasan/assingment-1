@@ -68,3 +68,13 @@ header {
     background-repeat: no-repeat;
     background-position: center center;
 }
+
+/* Welcome Banner style start */
+.welcom-banner{
+    background-image: url('../images/Vectorrr.png');
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    width: auto;
+    height: 600px;
+}
